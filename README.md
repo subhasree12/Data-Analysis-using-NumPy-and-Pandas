@@ -1,0 +1,1 @@
+This project involves the use of NumPy, Pandas, MatPlotlib, Seaborn and Python to analyse a dataset. The dataset used is Lahman's Baseball Database
